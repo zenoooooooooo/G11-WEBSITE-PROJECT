@@ -12,23 +12,24 @@ School: Cainta Senior High School
 
 Organizational Chart:
 
-Please note that the positions listed in the Organizational Chart do not reflect the actual roles of the group members in the project. 
+Please note that the positions listed in the Organizational Chart in the PowerPoint presentation presented on the 13th of June, 2023, do not reflect the actual roles of the group members in the project. 
 This approach was adopted to fulfill the required spots and ensure the chart's presentability.
 
-Development Team
+Actual Development Team:
+
 The following developers contributed to the project:
 
-E-Jhay M. Esplana: Lead Software Developer
-John Jacob I. Javier: Assistant Software Developer
-Denmark D. Gerona: Technical Writer
-Jerome G. Gestiada: Technical Writer
-Prince Aldrin D. Gultiano: UI/UX Designer
-Arabella Dizon: UI/UX Designer & Quality Assurance
-Samantha Nicole Frianela: UI/UX Designer
+E-Jhay M. Esplana: Lead Software Developer <br>
+John Jacob I. Javier: Assistant Software Developer <br>
+Denmark D. Gerona: Technical Writer <br>
+Jerome G. Gestiada: Technical Writer <br>
+Prince Aldrin D. Gultiano: UI/UX Designer <br>
+Arabella Dizon: UI/UX Designer & Quality Assurance <br>
+Samantha Nicole Frianela: UI/UX Designer <br>
 
 We would like to extend our gratitude to the following individuals:
 
-Joana Miranda: Consultant, Special Lecturer, and Project Manager
+Joana Miranda: Consultant, Special Lecturer, and Project Manager <br>
 Ar-jay B. Celso: Software Developer and Technical Writer
 
 Version Information:

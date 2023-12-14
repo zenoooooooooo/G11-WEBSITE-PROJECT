@@ -1,0 +1,27 @@
+.text-container {
+    margin-right: -20px;
+    margin-left: -20px;
+}
+.text-container h1 {
+    text-shadow: none;
+    font-size: 30px;
+    text-align: center;
+    background-color: orange;
+    margin: 0px;
+    color: rgb(37, 13, 13);
+    margin-top: 22px;
+    font-family: cursive;
+}
+.text-container p {
+    margin-top: 25px;
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    background-color:#f52121;
+    font-size: 20px;
+}
+.homepage {
+    display: flex;
+    align-items: left;
+    margin-top: 25px;
+}

@@ -29,6 +29,14 @@ jobs:
           target-folder: 'html'  # Set the target folder to 'html'
           index-file: 'home.html'  # Set the homepage to 'home.html'
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'
+
+      - name: List artifact contents
+        run: ls -R
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
